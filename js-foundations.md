@@ -1,30 +1,67 @@
 # Javascript Foundations Assessments
 
-
-assessment
-
-
 ### Without using Google answer the following:
+
 
 1. List the data types in Javascript. Indicate which are primitives.
 
+null, boolean, string, number, symbol, object
+
+
 2. What's the difference between =, ==, and === in JavaScript?
+
+= (assign value or name)
+== (equal value)
+=== (equal value and data type)
+
 
 3. What is the difference between an array's index and length?
 
+index counts number of positions (starting at 0)
+length counts number of elements (starting at 1)
+
+
 4. What are the three parts of a for loop?
+
+starting position (i = 0)
+loop length (i < array.length or i < 5)
+next action (i++)
+
 
 5. What is a function's declaration, argument, and call?
 
+declaration is function name
+argument is the actionable info it takes in ... usually with placeholder
+call supplies actionable info ... usually name(argument) or console.log(name(argument))   
+
+
 6. What are the three main steps in saving work to github?
+
+git add .
+git commit -m "update message here"
+git push
+
 
 7. What is the terminal command to move directories?
 
+cd
+
+
 8. Do you have a suggestion for a Check In question?
+
+what's a cool or weird skill you have?
+
 
 9. What was your favorite topic this week?
 
+panel discussions about how to handle yourself in internships and job search
+
+
 10. What was your "A-ha!" moment this week?
+
+understanding class inheritance and super() parent/child relationships (still a little fuzzy on this though, need practice)
+
+
 
 ### Stretch: The following questions are potential interview questions. First, try to answer each question on your own then Google the answer to further your knowledge.
 
